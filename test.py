@@ -1,1 +1,1 @@
-"안녕하세요"
+print("seok test!")
