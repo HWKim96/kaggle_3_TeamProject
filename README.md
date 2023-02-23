@@ -3,5 +3,3 @@
 
 predict future sales 분석
 
-
-신기해요
