@@ -1,5 +1,6 @@
 # kaggle_3_TeamProject
 
+<br>
 
 ## 목차
 - #### (train, test, item, shop) 데이터 전처리
@@ -8,10 +9,18 @@
 - #### 모델 생성
 - #### RMSE 분석
 
+<br>
+
 ## predict future sales 분석
 
 <p align="justify">
-	
+
+### 간트 차트
+
+|  ![chart]  |
+
+<br>
+
 ### 프로젝트 개요
 
 #### 1. 목적
@@ -59,7 +68,7 @@
 </p>
 <br>
 
-## 구현 feature
+## 구현 특성
 
 - #### 도시 정보
 - #### 월별 판매갯수
@@ -73,8 +82,13 @@
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
+	
 #### 1. 더 많은 feature를 시도해보지 못한 점<br>
 #### 2. 과적합 해결을 하지 못한 점
 </p>
 
 <br>
+
+<!-- Stack Icon Refernces -->
+
+[chart]: /images/간트차트.png
