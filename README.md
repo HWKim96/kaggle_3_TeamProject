@@ -1,5 +1,7 @@
 # kaggle_3_TeamProject
 
+Simple is best
+
 <br>
 
 ## 목차
