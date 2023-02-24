@@ -1,5 +1,9 @@
 # kaggle_3_TeamProject
 
+Predict Future Sales
+link: https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/overview
+
+
 <br>
 
 ## 목차
@@ -81,6 +85,7 @@
 
 ## 모델링
 
+- #### Light GBM
 - #### XGBoost 
 
 <br>
