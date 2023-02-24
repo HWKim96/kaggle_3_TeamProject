@@ -93,7 +93,7 @@ Light GBM
 
 XGBoost
 
-<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100072-bf9c6308-cc9b-4219-b8bc-4681e28733df.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100072-bf9c6308-cc9b-4219-b8bc-43681e28733df.png"/>
 
 <br>
 
