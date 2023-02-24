@@ -2,7 +2,7 @@
 
 
 ## 목차
-**** (train, test, item, shop) 데이터 전처리
+- #### (train, test, item, shop) 데이터 전처리
 - 그룹화 및 데이터 병합
 - feature 생성
 - 모델 생성
