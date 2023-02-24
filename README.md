@@ -1,6 +1,6 @@
 # kaggle_3_TeamProject
 
-Simple is best
+Simple is the best
 
 <br>
 
