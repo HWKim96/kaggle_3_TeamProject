@@ -88,12 +88,16 @@
 ### 결과
 Light GBM
 
-<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100542-bd01e568-5af9-4700-9a7f-7863ce5f3ab8.png
+<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100733-9b9d485c-61f8-4e18-94c3-9b0cc1965101.png
 "/>
 
 XGBoost
 
-<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100072-bf9c6308-cc9b-4219-b8bc-43681e28733df.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100739-1cd3d19d-dc01-4f6b-965d-b794810d1081.png"/>
+
+![3_2](https://user-images.githubusercontent.com/126048063/221100733-9b9d485c-61f8-4e18-94c3-9b0cc1965101.png)
+![3_1](https://user-images.githubusercontent.com/126048063/221100739-1cd3d19d-dc01-4f6b-965d-b794810d1081.png)
+
 
 <br>
 
