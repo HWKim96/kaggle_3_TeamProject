@@ -88,14 +88,14 @@
 
 ### 결과
 
-Light GBM
+**Light GBM**
 
 - training's rmse : 0.71708
 - val's rmse : 0870725
 
 <img width="100%" src="https://user-images.githubusercontent.com/126048063/221100733-9b9d485c-61f8-4e18-94c3-9b0cc1965101.png"/>
 
-XGBoost
+**XGBoost**
 
 - training's rmse : 0.72325
 - val's rmse : 0.86835
