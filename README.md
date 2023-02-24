@@ -17,7 +17,7 @@
 
 ### 간트 차트
 
-|  ![chart]  |
+<img src="kaggle_3_TeamProject\image\간트차트.png"/>
 
 <br>
 
@@ -88,7 +88,3 @@
 </p>
 
 <br>
-
-<!-- Stack Icon Refernces -->
-
-[chart]: /images/간트차트.png
