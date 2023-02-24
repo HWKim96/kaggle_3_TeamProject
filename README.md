@@ -2,7 +2,7 @@
 
 
 ## 목차
-- (train, test, item, shop) 데이터 전처리
+**** (train, test, item, shop) 데이터 전처리
 - 그룹화 및 데이터 병합
 - feature 생성
 - 모델 생성
@@ -53,7 +53,9 @@
 
 ## 기술 스택
 <p>
-Python
+	
+#### Python
+	
 </p>
 <br>
 
@@ -71,8 +73,8 @@ Python
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
-1. 더 많은 feature를 시도해보지 못한 점<br>
-2. 과적합 해결을 하지 못한 점
+#### 1. 더 많은 feature를 시도해보지 못한 점<br>
+#### 2. 과적합 해결을 하지 못한 점
 </p>
 
 <br>
