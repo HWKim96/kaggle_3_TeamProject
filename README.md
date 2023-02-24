@@ -84,9 +84,15 @@
 - #### Light GBM
 - #### XGBoost
 
+
+### 결과
+Light GBM
+
+<img width="100%" src="(https://user-images.githubusercontent.com/126048063/221100290-3d2188f7-e56e-427d-9e3c-d5a1e40120d6.png"/>
+
+XGBoost
+
 <img width="100%" src="https://user-images.githubusercontent.com/126048063/221100072-bf9c6308-cc9b-4219-b8bc-4681e28733df.png"/>
-
-
 
 <br>
 
