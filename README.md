@@ -17,7 +17,7 @@
 
 ### 간트 차트
 
-<img src="kaggle_3_TeamProject\image\간트차트.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/98474997/221078422-9b52b0bb-a385-439d-b0a3-9b014f8b8eaa.png"/)
 
 <br>
 
