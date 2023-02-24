@@ -88,11 +88,11 @@
 ### 결과
 Light GBM
 
-<img width="100%" src="![3_2](https://user-images.githubusercontent.com/126048063/221100733-9b9d485c-61f8-4e18-94c3-9b0cc1965101.png)"/>
+<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100733-9b9d485c-61f8-4e18-94c3-9b0cc1965101.png"/>
 
 XGBoost
 
-<img width="100%" src="![3_1](https://user-images.githubusercontent.com/126048063/221100739-1cd3d19d-dc01-4f6b-965d-b794810d1081.png)"/>
+<img width="100%" src="https://user-images.githubusercontent.com/126048063/221100739-1cd3d19d-dc01-4f6b-965d-b794810d1081.png"/>
 
 <br>
 
