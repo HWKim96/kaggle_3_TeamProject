@@ -24,10 +24,13 @@
 <table border="1">
 	<th>이름</th>
 	<th>역할</th>
+	<tr>
 	    <td>김현우(팀장)</td>
 	    <td>모델링, 프로젝트 총괄</td>
+	<tr>
 	    <td>김하율(팀원)</td>
 	    <td>모델링</td>
+	<tr>
       <td>김동석(부팀장)</td>
 	    <td>데이터 전처리</td>
 	    <td>강무경(팀원)</td>
@@ -38,7 +41,6 @@
 </p>
 
 <p align="center">
-GIF Images
 </p>
 
 <br>
