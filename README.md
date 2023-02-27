@@ -93,14 +93,14 @@ Simple is the best
 **Light GBM**
 
 - training's rmse : 0.71708
-- val's rmse : 0870725
+- validation's rmse : 0870725
 
 <img width="100%" src="https://user-images.githubusercontent.com/126048063/221100733-9b9d485c-61f8-4e18-94c3-9b0cc1965101.png"/>
 
 **XGBoost**
 
 - training's rmse : 0.72325
-- val's rmse : 0.86835
+- validation's rmse : 0.86835
 
 <img width="100%" src="https://user-images.githubusercontent.com/126048063/221100739-1cd3d19d-dc01-4f6b-965d-b794810d1081.png"/>
 
